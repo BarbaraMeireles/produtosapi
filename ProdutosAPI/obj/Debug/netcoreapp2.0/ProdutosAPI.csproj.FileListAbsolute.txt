@@ -1,0 +1,14 @@
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.deps.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.runtimeconfig.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.runtimeconfig.dev.json
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.dll
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\obj\Debug\netcoreapp2.0\ProdutosAPI.csprojAssemblyReference.cache
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\obj\Debug\netcoreapp2.0\ProdutosAPI.AssemblyInfoInputs.cache
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\obj\Debug\netcoreapp2.0\ProdutosAPI.AssemblyInfo.cs
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.pdb
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\obj\Debug\netcoreapp2.0\ProdutosAPI.dll
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\obj\Debug\netcoreapp2.0\ProdutosAPI.pdb
+C:\Users\Babi\source\repos\ProdutosAPI\ProdutosAPI\bin\Debug\netcoreapp2.0\ProdutosAPI.xml
